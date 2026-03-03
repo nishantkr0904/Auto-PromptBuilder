@@ -3,7 +3,6 @@
 # 🧠 Auto Prompt Builder
 
 **A Dynamic Prompt Generation & Tuning System for Industry Use**
-
 ---
 
 ## 📄 Overview
