@@ -31,12 +31,25 @@ It reduces errors, standardizes prompt creation, and makes AI interactions more 
 
 As a collaborator, I contributed to enhancing and refining key components of the system:
 
-* Worked on prompt chaining workflow logic for better multi-step execution
+* Improved prompt chaining workflow logic for better multi-step execution
 * Enhanced template management for more structured and reusable prompts
 * Strengthened Firebase authentication flow with improved handling
-* Contributed to prompt generation pipeline to improve response consistency
+* Refactored prompt generation pipeline to improve response consistency
 
 > This repository is a fork of the original project, with additional improvements and refinements implemented independently.
+---
+## 🔍 Contribution Proof
+
+* Forked from original project:
+  https://github.com/ANSUJKMEHER/Auto-PromptBuilder
+
+* Key areas worked on:
+
+  * chaining.py → workflow logic
+  * template_manager.py → template system
+  * firebase_auth.py → authentication handling
+
+* Independently enhanced and maintained in this fork.
 ---
 
 ## 🚀 Features
