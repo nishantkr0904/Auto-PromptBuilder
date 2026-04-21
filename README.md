@@ -27,6 +27,17 @@ As generative AI becomes more widely used in classrooms, projects, businesses, a
 It reduces errors, standardizes prompt creation, and makes AI interactions more reliable—making it extremely useful for students, professors, and professionals who depend on AI for academic or industry projects.
 
 ---
+## 🚀 My Contributions
+
+As a collaborator, I contributed to enhancing and refining key components of the system:
+
+* Worked on prompt chaining workflow logic for better multi-step execution
+* Enhanced template management for more structured and reusable prompts
+* Strengthened Firebase authentication flow with improved handling
+* Contributed to prompt generation pipeline to improve response consistency
+
+> This repository is a fork of the original project, with additional improvements and refinements implemented independently.
+---
 
 ## 🚀 Features
 
